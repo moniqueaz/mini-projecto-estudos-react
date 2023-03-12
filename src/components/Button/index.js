@@ -23,7 +23,6 @@ const ButtonUI = styled.button`
   background-color: blue;
   color: #fff;
   padding: 10px 20px;
-
   outline: none;
   border: 0;
   box-shadow: none;
